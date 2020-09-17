@@ -6,5 +6,7 @@ Something wrong happened when uploading my code to kaggle kernel directly, so I 
 
 ------------------------------------------------------------------------------------------------------------------
 
-I will also upload other homework related thing here for a backup.
+I will also upload some other homework related things here for a backup.
 If it happens to be useful to you, I will be happy to hear that :D
+
+btw. let me know if you find bugs in my code (or my english as well) XD
