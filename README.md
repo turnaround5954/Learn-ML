@@ -1,6 +1,6 @@
 # homework
 
-I found it's hard to finish training cs224 assignment5 on my own laptop.
+I found it's hard to finish training cs224 assignment5's NMT on my own laptop.
 I also found that one can use GPU free on kaggle.
 Something wrong happened when uploading my code to a kaggle kernel directly,
 so I created this repository and use git clone to get my code :D
