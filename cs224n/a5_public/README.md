@@ -13,7 +13,7 @@
 ```
 
 ### Tips:
- 1. Do not apply view() directly on the input parameter of forward function in embedding layer, which will cause the loss to blow up in GPU mode. 
+ 1. Do not apply view() directly on the input of the embedding layer, which will cause the loss to blow up in GPU mode. 
 
  2. Customized sanity check is important. I'm so lazy that I did them all in the REPEL (In fact I didn't do much XD).
 
