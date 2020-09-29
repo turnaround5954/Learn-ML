@@ -1,1 +1,2 @@
 *.json linguist-language=Python
+*.es linguist-language=Python
