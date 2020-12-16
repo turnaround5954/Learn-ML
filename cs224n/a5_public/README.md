@@ -17,6 +17,6 @@
 
  2. Customized sanity check is important. I'm so lazy that I did them all in the REPEL (In fact I didn't do much XD).
 
- 3. Pad and UNK charactor need to be replaced by \<pad\> and \<unk\> in order to pass some sanity check.
+ 3. Pad and UNK charactors need to be replaced by \<pad\> and \<unk\> in order to pass some sanity checks.
 
  4. Use torch.max or nn.functional.adaptive_max_pool1d for global max pooling.
