@@ -1,4 +1,4 @@
-# Homework-ML
+# Learn-ML
 
 I found it's hard to finish training cs224 assignment5's NMT on my own laptop.
 I also found that one can use GPU free on kaggle.
